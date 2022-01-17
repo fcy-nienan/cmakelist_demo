@@ -1,0 +1,3 @@
+/Users/nienan/CLionProjects/cmakelist_demo/build/CMakeFiles/rebuild_cache.dir
+/Users/nienan/CLionProjects/cmakelist_demo/build/CMakeFiles/edit_cache.dir
+/Users/nienan/CLionProjects/cmakelist_demo/build/CMakeFiles/cmakelist_demo.dir
